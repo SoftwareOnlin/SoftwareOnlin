@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Software Only 👋
 
-<!--
-**SoftwareOnlin/SoftwareOnlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım geliştirme süreçlerine, temiz koda ve yeni teknolojileri öğrenmeye odaklanıyorum. açık kaynak projelere katkı sağlıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Güncel Odak Noktam
+- 💻 Şu an aktif olarak kendi projelerimi geliştiriyorum ve mimari yapıları inceliyorum.
+- 📚 Sistem tasarımı (System Design) ve backend teknolojileri üzerine pratik yapıyorum.
+- 🎥 [@thecoderstime](https://youtube.com/@thecoderstime) kanalım için teknik içerikler planlıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Teknolojiler & Araçlar
+Aşağıdaki teknolojileri projelerimde aktif olarak kullanıyorum:
+
+- **Diller:** Python
+- **Backend/Frontend:** Node.js, React, Express
+- **Araçlar & Veritabanları:** Git, GitHub
+
+## 🌐 Bana Ulaşın
+- **YouTube:** [The Coders Time](https://youtube.com/@thecoderstime)
+- **GitHub:** [@SoftwareOnlin](https://github.com/SoftwareOnlin)
+
